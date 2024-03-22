@@ -4,7 +4,7 @@
 
 portafolios de artistas y diseñadores:
 
-- Lisa Fischer, diseñadora visual y especializada en UX/UI
+- [Lisa Fischer](https://www.lisasuefischer.com/), diseñadora visual y especializada en UX/UI
 
 ![lisa fischer](./lisa_fischer.png)
   
