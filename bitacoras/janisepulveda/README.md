@@ -20,6 +20,10 @@
 
 - [Adobe Portfolio](https://www.portfolio.adobe.com/), plataforma de adobe para diseñar portafolios mediante plantillas.
 
+![adobe portfolio](./adobe_portfolio.png)
+
+![adobe portfolio](./adobe_portfolio2.png)
+
 
   
 ## Elementos HTML y CSS que usaremos para crear las plantillas de los portafolios.
