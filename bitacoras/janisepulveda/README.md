@@ -1,7 +1,13 @@
 # 2024-03-28: primer encargo
 
-- aprender a agregar texto, enlaces e imágenes a tu bitácora con fechas en el formato YYYY-MM-DD: tema, tal como esta bitácora.
+## Referentes
+
+portafolios de artistas y diseñadores:
+
+- Lisa Fischer, diseñadora visual y especializada en UX/UI
+
   
-- agregar investigación de referentes de referentes sobre portafolios digitales usados en distintas escuelas de diseño y artes mediales, y también de artistas y diseñadores.
+  
+- agregar investigación de referentes sobre portafolios digitales usados en distintas escuelas de diseño y artes mediales, y también de artistas y diseñadores.
   
 - definir los elementos HTML y CSS que usaremos para crear las plantillas de los portafolios.
