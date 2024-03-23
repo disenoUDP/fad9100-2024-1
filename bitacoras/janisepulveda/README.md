@@ -4,7 +4,7 @@
 
 ### Portafolios de artistas y diseñadores:
 
-- [Lisa Fischer](https://www.lisasuefischer.com/), diseñadora visual y especializada en UX/UI
+- [Lisa Fischer](https://www.lisasuefischer.com/), diseñadora visual especializada en UX/UI. Su portafolio es simple y contiene elementos que pueden replicarse para la creación de plantillas.
   
 
 ![lisa fischer](./lisa_fischer.png)
@@ -12,13 +12,13 @@
 ![lisa_fischer2 (1)](https://github.com/janisepulveda/fad9100-2024-1/assets/144460794/a61546d9-7575-405c-bb9f-810d4cc0b69c)
 
 
-- [Rachel How](https://www.rachelhow.com/about), diseñadora UX/UI independiente
+- [Daniel Autry](https://danielautry.com/#portfolio), diseñador de productos, desarrollador e investigador de conductas (behavioral researcher). Su portafolio cuenta con tags en cada proyecto, puede ser útil al momento de filtrar información.
 
-![Rachel How](./rachel_how.png)
+![Rachel How](./)
 
-### Plataformaa para la creación de portafolios:
+### Plataforma para la creación de portafolios:
 
-- [Adobe Portfolio](https://www.portfolio.adobe.com/), plataforma de adobe para diseñar portafolios mediante plantillas.
+- [Adobe Portfolio](https://www.portfolio.adobe.com/), plataforma de adobe gratuita para diseñar portafolios mediante plantillas. Está optimizado para crear y publicar sitios web, sin embargo esta opcion es de pago. 
 
 ![adobe portfolio](./adobe_portfolio.png)
 
