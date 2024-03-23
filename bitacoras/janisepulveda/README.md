@@ -14,11 +14,11 @@
 
 - [Daniel Autry](https://danielautry.com/#portfolio), diseñador de productos, desarrollador e investigador de conductas (behavioral researcher). Su portafolio cuenta con tags en cada proyecto, puede ser útil al momento de filtrar información.
 
-![Rachel How](./)
+![Rachel How](./daniel_autry.png)
 
 ### Plataforma para la creación de portafolios:
 
-- [Adobe Portfolio](https://www.portfolio.adobe.com/), plataforma de adobe gratuita para diseñar portafolios mediante plantillas. Está optimizado para crear y publicar sitios web, sin embargo esta opcion es de pago. 
+- [Adobe Portfolio](https://www.portfolio.adobe.com/), plataforma de adobe gratuita para diseñar portafolios mediante plantillas. Está optimizado para crear y publicar sitios web, sin embargo esta opción es de pago. 
 
 ![adobe portfolio](./adobe_portfolio.png)
 
