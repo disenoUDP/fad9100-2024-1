@@ -9,7 +9,7 @@
 
 ![lisa fischer](./lisa_fischer.png)
 
-![lisa_fischer2 (1)](https://github.com/janisepulveda/fad9100-2024-1/assets/144460794/a61546d9-7575-405c-bb9f-810d4cc0b69c)
+![lisa_fischer2 (1)](https://github.com/janisepulveda/fad9100-2024-1/assets/144460794/a61546d9-7575-405c-bb9f-810d4cc0b69c) (no sé porque se ve tan pequeño)
 
 
 - [Daniel Autry](https://danielautry.com/#portfolio), diseñador de productos, desarrollador e investigador de conductas (behavioral researcher). Su portafolio cuenta con tags en cada proyecto, puede ser útil al momento de filtrar información.
@@ -26,4 +26,12 @@
 
 
   
-## Elementos HTML y CSS que usaremos para crear las plantillas de los portafolios.
+## Elementos HTML y CSS que usaremos para crear las plantillas de los portafolios:
+
+- Uso del lenguaje markdown que facilite la lectura de los portafolios, organizando la jerarquía del texto.
+
+- Uso de grillas simples para delimitar los espacios de los contenidos, títulos, textos e imágenes en las plantillas.
+
+- Definir un grupo de tipografías fáciles de leer en la web.
+
+- Portabilidad, nuestras plantillas idealmente deben visualizarse en diferentes plataformas y sistemas operativos.
