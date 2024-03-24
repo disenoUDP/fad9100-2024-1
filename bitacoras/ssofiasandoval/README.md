@@ -71,7 +71,11 @@ Es un diseñador web UX UI, Patrick David con una pagina web responsiva,llamativ
 <img width="1333" alt="Captura de pantalla 2024-03-24 a la(s) 8 24 31 p  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/b6a66ac0-251d-4a4c-a34f-b97895d5f9f6">
 
 Me gusta como Adham se apodera de sus dos grandes habilidades y las proyecta. y sobre todo de forma interactiva
+
+ 6.- https://ssofiasandoval.github.io/portafolio/sobremi.html 
  
+ <img width="674" alt="Captura de pantalla 2024-03-24 a la(s) 8 53 42 p  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/6c096e63-89f5-4fca-960d-809a713ca58a">
+
 
 ### definir los elementos HTML y CSS que usaremos para crear las plantillas de los portafolios.
 
