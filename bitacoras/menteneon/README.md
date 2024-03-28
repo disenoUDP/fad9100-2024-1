@@ -41,11 +41,11 @@ el famoso creador del kernel del sistema operativo Linux, en 2005. Un asombroso 
 * Billelis
   Es bastante minimalista a la hora de su infromación pero de igual manera siempre estan presente los links directos a sus redes sociales 
   
-![img](./cap1portada.png)
+![img](./cap1porta.png)
 
   Nuevamente responde completamente a la interactividad del mouse 
 
-![img](./cap2portada.png)
+![img](./cap2porta.png)
 
   * https://www.billelis.com/gallery 
 
