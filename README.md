@@ -24,7 +24,6 @@ FAAD UDP
 
 ## encargo mediados de abril: viernes 19 abril
 
-
 1. crear un repositorio tipo template de portafolio tipo galería de imágenes con bordes blancos, de fotos no cuadradas, de fotos rectangulares, con análisis de parámetros y explicación de padding, margin, border-radius, etc. (PLUUMSY)
 2. crear un formulario de contacto que me llegue un correo a mi gmail. (SSOFIA)
 3. crear instrucciones en .md de cómo usar un template, y cómo publicarlo en Github Pages. (SOFIAH)
@@ -39,4 +38,3 @@ pendiente:
 ## Objetivos
 
 ## Evaluación
-
