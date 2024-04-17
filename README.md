@@ -1,4 +1,4 @@
-# fAD9100-2024-1
+# fad9100-2024-1
 
 Práctica electiva, diseño de software para crear portafolios digitales
 
@@ -33,7 +33,7 @@ FAAD UDP
 
 pendiente:
 
-1. crear un repositorio tipo template de portafolio  tipo linktree, con HTML, JS y CSS con links a otros lugares.
+1. crear un repositorio tipo template de portafolio tipo linktree, con HTML, JS y CSS con links a otros lugares.
 
 ## Objetivos
 
