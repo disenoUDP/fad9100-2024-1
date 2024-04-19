@@ -56,10 +56,14 @@ link referido : https://www.youtube.com/watch?v=FGJNC4bSztM
 
 ## Buscar referente portafolio, de como muestran su email
 Y me guie por  https://itssharl.ee/fr/contact 
+<img width="912" alt="Captura de pantalla 2024-04-18 a la(s) 10 46 29 p  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/564e6427-eda3-4864-af0f-b58f2bc7c9d3">
+
 y busque como hacerlo 
 referido de: https://www.w3schools.com/html/tryit.asp?filename=tryhtml_links_email
+<img width="718" alt="Captura de pantalla 2024-04-18 a la(s) 11 23 07 p  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/0e869f22-f4a2-446f-a98f-081c3021debc">
 
 y lo  logre jejeje y da el link mi correo
+<img width="704" alt="Captura de pantalla 2024-04-18 a la(s) 11 23 44 p  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/eecac486-63be-4bbc-b99d-4c64d424a9e5">
 
 
 
