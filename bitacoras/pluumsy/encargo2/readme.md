@@ -1,5 +1,6 @@
 # Portafolio tipo galería de imágenes
 ## 2024-04-19: encargo 2
+[REPOSITORIO TEMPLATE](https://github.com/Pluumsy/portafolio-galeria)
 
 ### **Pruebas**: CSS Flexbox y CSS Grid
 - Los primeros acercamientos los realicé utilizando Flexbox, el mayor problema fue que si bien logré que las imágenes se vieran sin distorsión, no se podían ver completas ya que seleccionaba solo un fragmento y la encuadraba en el formato rectangular.
@@ -28,3 +29,10 @@
 #### Columnas:
 - Dividí el contenido en 3 columnas con un ancho minimo de 320px, ya que este es el ancho del celular.
 - Establecí con "column-gap" el espacio entre las columnas en 30px, para que el margen de las imágenes coincida con el de las columnas.
+
+[Resultado galeria](https://pluumsy.github.io/portafolio-galeria/)
+![imagen3](imagen3.png)
+
+### Mejoras:
+- Una vez terminada le agregué una pequeña animación y fue ahi cuando noté que las imágenes quedaban ordenadas por las columnas hacia abajo, lo que hace que se vea desordenado al hacer scroll, intenté solucionarlo pero al parecer se necesitaba JavaScript para hacer esos arreglos.
+
