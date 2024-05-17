@@ -27,7 +27,7 @@ Para insertar archivos p5.js dentro de un archivo HTML, hay que seguir estos pas
 ```
   - La línea de código ```p5.min.js``` es la responsable de cargar la biblioteca p5.js en la página web. **Es fundamental para ejecutar cualquier sketch de p5.js en un navegador web:**
 
-![html en la web][./]
+![html en la web](./htmlWeb.png)
 
 ```html
 <script src="https://cdn.jsdelivr.net/npm/p5@1.1.2/lib/p5.min.js"></script>
@@ -49,4 +49,4 @@ function draw() {
  createCanvas(windowWidth, 400);
 ```
 
-![js en la web][./]
+![js en la web](./jsWeb.png)
