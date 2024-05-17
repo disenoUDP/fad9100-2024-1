@@ -3,11 +3,11 @@
 ### Investigación:
 Comence buscando tutorial https://www.youtube.com/watch?v=yBJA2L2OgdA y segui los siguientes pasos:
 
-# 1.- crear carpeta en mi escritorio y archivo server.js para abrirlo en visual studio code.
-# 2.- añadi el código de "about" https://nodejs.org/en/about
-# 3.- Desde la terminal abri la carpeta.
-# 4.- Ejecutar nodeserver.js, run.
-# 5.-Busque mi localhost en el navegador 127.0.0.1:3000
+- 1.- crear carpeta en mi escritorio y archivo server.js para abrirlo en visual studio code.
+- 2.- añadi el código de "about" https://nodejs.org/en/about
+- 3.- Desde la terminal abri la carpeta.
+- 4.- Ejecutar nodeserver.js, run.
+- 5.-Busque mi localhost en el navegador 127.0.0.1:3000
 
 luego para iniciar la comunicación cree una página web pero no logre que pudiesen enviarse un mensaje.
 imagen de como se ve:
