@@ -50,3 +50,7 @@ function draw() {
 ```
 
 ![js en la web](./jsWeb.png)
+
+- Ejemplo con una animación:
+
+![ejemplo](./ejemplo.gif)
