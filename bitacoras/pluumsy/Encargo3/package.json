@@ -1,0 +1,25 @@
+{
+  "name": "portafolioprueba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "fs-extra": "^11.2.0",
+    "mongoose": "^8.4.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "timeago.js": "^4.0.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
