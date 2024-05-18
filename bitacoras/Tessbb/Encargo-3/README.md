@@ -10,7 +10,7 @@
 - **Imágenes recientes:** Las imágenes deben ordenarse de forma que las más recientes aparezcan primero.
 - **Interacción con imágenes:** Al hacer clic en una imagen, el usuario debe ser redirigido a la página individual del portafolio correspondiente.
 
-- **Barra superior de navegación:**
+### **Barra superior de navegación:**
 
 - **Logo institucional:** Incluir el logo institucional en la esquina superior izquierda de la barra de navegación.
 - **Apartado de categorías:** Un menú desplegable con las siguientes categorías:
