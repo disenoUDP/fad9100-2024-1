@@ -6,7 +6,7 @@ Para insertar archivos p5.js dentro de un archivo HTML, hay que seguir estos pas
 
 1. Crear dos archivos en tu editor de código:
     - ```index.html:``` esta será la página predeterminada que se mostrará en tu sitio web.
-    - ```sketch.js:``` contendrá tu codigo p5.js.
+    - ```sketch.js:``` contendrá tu código p5.js.
       
 2. Enlazar los archivos:
      - Una vez creados los archivos, incluir ```sketch.js``` y ```p5.min.js``` dentro del archivo ```index.html```.
