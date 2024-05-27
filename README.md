@@ -22,7 +22,9 @@ FAAD UDP
 - Sofía Sandoval <https://github.com/ssofiasandoval>
 - Valentina Montecinos <https://github.com/menteneon>
 
-## encargo mediados de abril: viernes 19 abril
+## encargo fines de mayo: viernes 13 mayo 2024
+
+## encargo mediados de abril: viernes 19 abril 2024
 
 1. crear un repositorio tipo template de portafolio tipo galería de imágenes con bordes blancos, de fotos no cuadradas, de fotos rectangulares, con análisis de parámetros y explicación de padding, margin, border-radius, etc. (PLUUMSY)
 2. crear un formulario de contacto que me llegue un correo a mi gmail. (SSOFIA)
