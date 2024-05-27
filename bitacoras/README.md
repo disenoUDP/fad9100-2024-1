@@ -3,7 +3,7 @@
 - [capitaldebulgaria](./capitaldebulgaria/)
 - [janisepulveda](./janisepulveda/)
 - [menteneon](./menteneon/)
-- [pluumsy](./pluumsy/)
+- [pluumsy](./Pluumsy/)
 - [ssofiasandoval](./ssofiasandoval/)
 - [Tessbb](./Tessbb/)
 
