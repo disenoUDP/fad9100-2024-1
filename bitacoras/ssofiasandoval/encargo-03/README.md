@@ -7,7 +7,7 @@ Comencé buscando tutorial <https://www.youtube.com/watch?v=yBJA2L2OgdA> y segu�
 1. crear carpeta en mi escritorio y archivo server.js para abrirlo en visual studio code.
 1. añadi el código de "about" <https://nodejs.org/en/about>
 1. Desde la terminal abri la carpeta.
-1. Ejecutar nodeserver.js, run.
+1. Correr nodeserver.js.
 1. Busque mi localhost en el navegador 127.0.0.1:3000
 
 luego para iniciar la comunicación cree una página web pero no logre que pudiesen enviarse un mensaje.
