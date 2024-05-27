@@ -145,4 +145,9 @@ function draw() {
   ellipse(100, 100, 50, 50);
 }
 ```
+## Bibliografía
 
+- https://editor.p5js.org/p5/sketches/3D:_orbit_control
+- https://editor.p5js.org/p5/sketches/Simulate:_Chain
+- https://p5js.org/reference/#/p5/p5
+- https://www.codecademy.com/article/p5js-creating-a-local-project
