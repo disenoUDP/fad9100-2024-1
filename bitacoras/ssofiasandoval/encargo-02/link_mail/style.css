@@ -1,12 +1,12 @@
-body {  
-    margin: 10;
-    font-family:'Courier New', Courier, monospace  
+body {
+  margin: 10;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 * {
-    background-color: black;
-   }
-   * {
-      font-family: "Courier New", Courier, monospace;
-      color:white
-  }
+  background-color: black;
+}
+* {
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+}
