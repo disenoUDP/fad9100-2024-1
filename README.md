@@ -22,6 +22,10 @@ FAAD UDP
 - Sofía Sandoval <https://github.com/ssofiasandoval>
 - Valentina Montecinos <https://github.com/menteneon>
 
+## bitácoras
+
+[bitacoras/](./bitacoras/)
+
 ## encargo mediados de junio
 
 ## encargo fines de mayo

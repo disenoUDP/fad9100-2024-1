@@ -1,5 +1,12 @@
 # bitacoras
 
+- [capitaldebulgaria](./capitaldebulgaria/)
+- [janisepulveda](./janisepulveda/)
+- [menteneon](./menteneon/)
+- [pluumsy](./pluumsy/)
+- [ssofiasandoval](./ssofiasandoval/)
+- [Tessbb](./Tessbb/)
+
 ## 2024-03-14: primera reunión presencial
 
 - organización del equipo
