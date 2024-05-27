@@ -4,7 +4,7 @@
 
 ### **Página de inicio**
 
-![captura-01](captura-01.png)
+![captura-01](./captura-01.png)
 
 - **Diseño estilo mosaico:** La página principal debe tener un diseño de mosaico, donde se muestren imágenes de los portafolios subidos recientemente.
 - **Imágenes recientes:** Las imágenes deben ordenarse de forma que las más recientes aparezcan primero.
@@ -26,7 +26,7 @@
 
 ### **Perfil personal**
 
-![captura-02](captura-02.png)
+![captura-02](./captura-02.png)
 
 Cada portafolio debe tener su propia página donde se muestre toda la información personal (Foto, nombre y apellido), sus datos (mensión y contactos) y las imágenes subidas de sus proyectos, además de una presentación corta (opcional).
 
@@ -36,7 +36,7 @@ En este formulario, se debe crear un título para el proyecto, pudiendo ser el m
 
 ### **Vizualizacion de proyecto**
 
-![captura-03](captura-03.png)
+![captura-03](./captura-03.png)
 
 - **Imagen:** Gran imagen, que se va seleccionando según la imagen pequeña que se encuentra en la parte inferior de esta misma (tipo catálogo)
 - **Información sobre el proyecto:**
