@@ -1,4 +1,4 @@
-# 5 pasos para usar un _Template_ y Publicarlo en *GitHub Pages*🌿
+# 5 pasos para usar un _Template_ y Publicarlo en _GitHub Pages_ 🌿
 
 ## Paso 1: Descarga el _Template_ (plantilla)
 

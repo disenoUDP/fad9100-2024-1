@@ -22,7 +22,9 @@ FAAD UDP
 - Sofía Sandoval <https://github.com/ssofiasandoval>
 - Valentina Montecinos <https://github.com/menteneon>
 
-## encargo fines de mayo: viernes 13 mayo 2024
+## encargo mediados de junio
+
+## encargo fines de mayo
 
 ## encargo mediados de abril: viernes 19 abril 2024
 
