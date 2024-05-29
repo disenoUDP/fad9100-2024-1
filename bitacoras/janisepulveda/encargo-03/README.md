@@ -36,7 +36,7 @@ La línea de código `p5.min.js` es la responsable de cargar la biblioteca p5.js
 
 - Vista previa del código `index.html`:
 
-![html en la web](./htmlWeb.png)
+![html en la web](./assets/htmlWeb.png)
 
 ### 3. Escribir el código de p5.js
 
@@ -61,11 +61,11 @@ createCanvas(windowWidth, 400);
 
 - Vista previa del código `sketch.js`:
 
-![js en la web](./jsWeb.png)
+![js en la web](./assets/jsWeb.png)
 
 - Ejemplo con una animación:
 
-![ejemplo](./ejemplo.gif)
+![ejemplo](./assets/ejemplo.gif)
 
 ## Insertando instancias p5.js en HTML con `p5.min.js`
 
@@ -82,7 +82,7 @@ Para insertar varios archivos p5.js dentro de un archivo HTML, hay que seguir es
 
 **Cada uno de los archivos será el contenedor para una instancia de p5.js**
 
-### 2. Enlazar los archivos
+### 2. Enlazar los archivos de instancia
 
 - Una vez creados los archivos, incluir enlaces a los archivos`instanciaXX.js` y `p5.min.js` dentro del archivo `index.html`.
 
@@ -103,7 +103,12 @@ Para insertar varios archivos p5.js dentro de un archivo HTML, hay que seguir es
 </body>
 </html>
 ```
-### 3. Escribir el código de p5.js
+
+- Vista previa del código `index.html`:
+
+![html en la web](./assets/htmlWeb.png)
+
+### 3. Escribir el código de p5.js para las instancias
 
 - En tus archivos `instanciaXX.js`, escribir el código base de p5.js. Por ejemplo:
 
@@ -145,9 +150,14 @@ function draw() {
   ellipse(100, 100, 50, 50);
 }
 ```
+
+- Ejemplo de múltiples instancias interactivas en la web:
+
+![ejemplo](./assets/ejemploInstancias.gif)
+
 ## Bibliografía
 
-- https://editor.p5js.org/p5/sketches/3D:_orbit_control
-- https://editor.p5js.org/p5/sketches/Simulate:_Chain
-- https://p5js.org/reference/#/p5/p5
-- https://www.codecademy.com/article/p5js-creating-a-local-project
+- <https://editor.p5js.org/p5/sketches/3D:_orbit_control>
+- <https://editor.p5js.org/p5/sketches/Simulate:_Chain>
+- <https://p5js.org/reference/#/p5/p5>
+- <https://www.codecademy.com/article/p5js-creating-a-local-project>
