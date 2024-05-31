@@ -8,7 +8,7 @@ Crear un sistema de galería de imágenes utilizando herramientas de programaci�
 ----
 ### Desarrollo
 
-![imagen formulario](encargo-04/imagenesReadme/IMG_0673.jpg)
+![imagen formulario](imagenesReadme/IMG_0673.jpg)
 
  ### Node.js:
 Es un entorno de ejecución de JavaScript de lado del servidor construido sobre el motor de JavaScript V8 de Google Chrome. Node.js proporciona un entorno de ejecución altamente eficiente y asíncrono, lo que lo hace ideal para aplicaciones de red escalables y de alta concurrencia.
