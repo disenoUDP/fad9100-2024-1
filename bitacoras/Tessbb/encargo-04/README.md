@@ -7,4 +7,4 @@
 ### **barra de navegación superior estática**
 
 
-![imagen-1](captura-1.png)
+![imagen-1](captura-1.PNG)
