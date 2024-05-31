@@ -28,7 +28,7 @@ FAAD UDP
 
 - Ve al repositorio en _GitHub_ donde se encuentra el _template_ que deseas usar.
 - Haz clic en el botón **_Code_** (código) y selecciona **_Download ZIP_** (descargar ZIP) para descargar el código del _template_.
-  ![](https://github.com/capitaldebulgaria/fad9100-2024-capitaldebulgaria/blob/d083b363302e6f97e912cce04430baf59faf2094/bitacoras/capitaldebulgaria/foto-1.png)
+  ![](./imagenes/foto-01.png)
   ![](https://github.com/capitaldebulgaria/fad9100-2024-capitaldebulgaria/blob/d083b363302e6f97e912cce04430baf59faf2094/bitacoras/capitaldebulgaria/foto-2.png)
 - Descomprime el archivo _ZIP_ descargado en una ubicación de tu elección.
   ![](https://github.com/capitaldebulgaria/fad9100-2024-capitaldebulgaria/blob/2874a62ecbb4c5d826e3560050dbac2513e8d652/bitacoras/capitaldebulgaria/foto-3.png)
