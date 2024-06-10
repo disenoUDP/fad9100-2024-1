@@ -88,3 +88,14 @@ footer {
 .social-icons a:hover {
     color: #8e44ad;
 }
+.contact-icons {
+    margin-top: 20px;
+}
+.contact-icons a {
+    margin: 0 15px;
+    text-decoration: none;
+}
+.contact-icons img {
+    width: 40px;
+    height: 40px;
+}
