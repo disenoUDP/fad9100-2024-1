@@ -10,3 +10,7 @@ Realice diferentes templeate de portafolios, pero que comparten estas principale
   
 ## opción A:
 <img width="958" alt="Captura de pantalla 2024-06-08 a la(s) 1 09 52 a  m" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/38a1266c-2ae0-4c48-8dd5-dd450d020bda">
+
+## opción b: 
+<img width="948" alt="captureb" src="https://github.com/ssofiasandoval/fad9100-2024-1/assets/128400293/1c592ec1-b23c-4de2-a8b2-ad2bbeac2532">
+
