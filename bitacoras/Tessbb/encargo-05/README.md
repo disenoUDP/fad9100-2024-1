@@ -4,7 +4,7 @@
 
 ### 1. Sintaxis Básica
 
-![captura-1](captura-01.png)
+![captura-1](imagenes/captura-01.png)
 
 - **"h1"**: Es un selector de etiqueta, existen muchos tipos de selectores.
 - **"font-size"**: Este atributo se refiere al tamaño de la fuente o letra. Existen decenas de atributos para las más variadas necesidades de diseño.
