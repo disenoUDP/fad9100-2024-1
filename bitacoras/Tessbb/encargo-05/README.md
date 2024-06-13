@@ -66,34 +66,82 @@ Puedes definir varias fuentes para un elemento. El navegador usará la primera f
 
 ### Fuentes Serif
 - **Roboto Slab**
+
 ![captura-14](imagenes/captura-14.png)
+
 [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
 
 - **Merriweather**
+
 ![captura-15](imagenes/captura-15.png)
+
 [Merriweather](https://fonts.google.com/specimen/Merriweather)
 
 - **Playfair Display**
+
 ![captura-16](imagenes/captura-16.png)
+
 [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 - **Noto Serif**
+
 ![captura-17](imagenes/captura-17.png)
+
 [Noto Serif](https://fonts.google.com/noto/specimen/Noto+Serif)
 
 ### Fuentes Sans Serif
 - **Montserrat**
+
 ![captura-18](imagenes/captura-18.png)
+
 [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
 - **Lato**
+
 ![captura-19](imagenes/captura-19.png)
+
 [Lato](https://fonts.google.com/specimen/Lato)
 
 - **Open Sans**
+
 ![captura-20](imagenes/captura-20.png)
+
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
 - **Roboto**
+
 ![captura-21](imagenes/captura-21.png)
+
 [Roboto](https://fonts.google.com/specimen/Roboto)
+
+### Fuentes Sans Serif
+- **Cinzel:** Designed by Natanael Gama
+
+![captura-22](imagenes/captura-22.png)
+
+[Cinzel](https://fonts.google.com/specimen/Cinzel)
+
+- **Raleway:** Designed by Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida
+
+![captura-23](imagenes/captura-23.png)
+
+[Raleway](https://fonts.google.com/specimen/Raleway)
+
+- **Alfa Slab One:** Designed by JM Solé
+
+![captura-24](imagenes/captura-24.png)
+
+[Alfa Slab One](https://fonts.google.com/specimen/Alfa+Slab+One)
+
+- **Abril Fatface:** Designed by TypeTogether
+
+![captura-25](imagenes/captura-25.png)
+
+[Abril Fatface](https://fonts.google.com/specimen/Abril+Fatface)
+
+- **Lobster:** Designed by Impallari Type
+
+![captura-26](imagenes/captura-26.png)
+
+[Lobster](https://fonts.google.com/specimen/Lobster)
+
