@@ -51,8 +51,11 @@ La propiedad background-color define el color de fondo de un elemento.
 
 #### Importar Fuentes desde Google Fonts
 Para usar una fuente de Google Fonts, primero debes incluir un enlace en el <head> de tu HTML. Aquí tienes un ejemplo usando la fuente "Roboto":
+- **HTML**
 ![captura-11](captura-11.png)
+- **CSS**
+![captura-12](captura-12.png)
 
 #### Uso de Varias Fuentes
 Puedes definir varias fuentes para un elemento. El navegador usará la primera fuente disponible en el sistema del usuario.
-![captura-12](captura-12.png)
+![captura-13](captura-13.png)
