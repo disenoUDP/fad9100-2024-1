@@ -65,19 +65,19 @@ Puedes definir varias fuentes para un elemento. El navegador usará la primera f
 ## **Recomendaciones de tipografías de Google Fonts**
 
 ### Fuentes Serif
-- **Roboto Slab**
+- **Roboto Slab:** Designed by Christian Robertson
 
 ![captura-14](imagenes/captura-14.png)
 
 [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab)
 
-- **Merriweather**
+- **Merriweather:** Designed by Sorkin Type
 
 ![captura-15](imagenes/captura-15.png)
 
 [Merriweather](https://fonts.google.com/specimen/Merriweather)
 
-- **Playfair Display**
+- **Playfair Display:** Designed by Claus Eggers Sørensen
 
 ![captura-16](imagenes/captura-16.png)
 
@@ -90,25 +90,25 @@ Puedes definir varias fuentes para un elemento. El navegador usará la primera f
 [Noto Serif](https://fonts.google.com/noto/specimen/Noto+Serif)
 
 ### Fuentes Sans Serif
-- **Montserrat**
+- **Montserrat:** Designed by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly
 
 ![captura-18](imagenes/captura-18.png)
 
 [Montserrat](https://fonts.google.com/specimen/Montserrat)
 
-- **Lato**
+- **Lato:** Designed by Łukasz Dziedzic
 
 ![captura-19](imagenes/captura-19.png)
 
 [Lato](https://fonts.google.com/specimen/Lato)
 
-- **Open Sans**
+- **Open Sans:** Designed by Steve Matteson
 
 ![captura-20](imagenes/captura-20.png)
 
 [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 
-- **Roboto**
+- **Roboto:** Designed by Christian Robertson
 
 ![captura-21](imagenes/captura-21.png)
 
