@@ -82,5 +82,18 @@ Puedes definir varias fuentes para un elemento. El navegador usará la primera f
 [Noto Serif](https://fonts.google.com/noto/specimen/Noto+Serif)
 
 ### Fuentes Sans Serif
+- **Montserrat**
+![captura-18](imagenes/captura-18.png)
+[Montserrat](https://fonts.google.com/specimen/Montserrat)
 
+- **Lato**
+![captura-19](imagenes/captura-19.png)
+[Lato](https://fonts.google.com/specimen/Lato)
 
+- **Open Sans**
+![captura-20](imagenes/captura-20.png)
+[Open Sans](https://fonts.google.com/specimen/Open+Sans)
+
+- **Roboto**
+![captura-21](imagenes/captura-21.png)
+[Roboto](https://fonts.google.com/specimen/Roboto)
