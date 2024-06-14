@@ -72,7 +72,7 @@ npm run dev
 
 - Al abrir la dirección web en un navegador, aparecerán los parámetros para comenzar a editar tu plantilla:
 
-agregar video
+https://github.com/disenoUDP/fad9100-2024-1/assets/144460794/63966927-fb34-4e52-91ad-b47edd246849
 
 ## Bibliografía
 
