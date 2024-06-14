@@ -9,7 +9,7 @@ Crear una galería de imágenes dinámica que se organiza en un diseño de rejil
 
 ### Desarrollo:
 
-![imagenexplicacion](imagenesReadme/imagenexplicacion)
+![imagenexplicacion](imagenesReadme/imagenexplicacion.jpg)
 ### 1. Definir sistema de nombres que funcione para subir imágenes secuencialmente.
 
 - **Ruta de la carpeta de imágenes:** Todas las imágenes están almacenadas en una carpeta específica.
@@ -24,7 +24,7 @@ Crear una galería de imágenes dinámica que se organiza en un diseño de rejil
 
 [GALERIA DE IMAGENES](pluumsy.github.io/PortafolioGaleria/)
 
-![imagen](imagenesReadme/imagengaleria)
+![imagen](imagenesReadme/imagengaleria.png)
 
 Automatización: Los usuarios pueden subir imágenes a la carpeta sin necesidad de actualizar manualmente el código o la página.
 
