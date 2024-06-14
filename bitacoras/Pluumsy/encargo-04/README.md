@@ -22,7 +22,7 @@ Crear una galería de imágenes dinámica que se organiza en un diseño de rejil
 
 - **Reorganización Dinámica:** Las imágenes se reorganizan para que aparezcan en filas, permitiendo que los usuarios puedan ordenar sus imágenes, según sus proyectos de interés.
 
-[GALERIA DE IMAGENES](pluumsy.github.io/PortafolioGaleria/)
+[GALERIA DE IMAGENES](https://pluumsy.github.io/PortafolioGaleria/)
 
 ![imagen](imagenesReadme/imagengaleria.png)
 
