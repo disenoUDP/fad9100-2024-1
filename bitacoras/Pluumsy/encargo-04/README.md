@@ -28,8 +28,5 @@ Crear una galería de imágenes dinámica que se organiza en un diseño de rejil
 
 Automatización: Los usuarios pueden subir imágenes a la carpeta sin necesidad de actualizar manualmente el código o la página.
 
-Adaptabilidad: La galería se adapta dinámicamente a la cantidad de imágenes y al diseño de columnas especificado en el CSS.)
-
-Automatización: Los usuarios pueden subir imágenes a la carpeta sin necesidad de actualizar manualmente el código o la página.
-
 Adaptabilidad: La galería se adapta dinámicamente a la cantidad de imágenes y al diseño de columnas especificado en el CSS.
+
