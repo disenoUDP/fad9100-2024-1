@@ -1,5 +1,13 @@
 # **2024-06-14: Quinto encargo**
 
+## **Template: portafolio**
+
+### - [Plantilla portafolio](https://tessbb.github.io/portafolio-01/proyecto-01.html)
+
+Esta plantilla, podría ser la base para los portafolios, no está terminada, pero es un primer acercamiento a una posible página web de un portafolio. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## **Manual para CSS**
 
 ### 1. Sintaxis Básica
