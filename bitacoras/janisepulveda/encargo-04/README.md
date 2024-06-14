@@ -72,7 +72,7 @@ npm run dev
 
 - Al abrir la dirección web en un navegador, aparecerán los parámetros para comenzar a editar tu plantilla:
 
-
+agregar video
 
 ## Bibliografía
 
