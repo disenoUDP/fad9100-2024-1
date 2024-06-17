@@ -16,7 +16,7 @@
 npm init mechanic@latest tu-proyecto
 ```
 
-**Debes verificar que tu computador tiene instalado Node.js (debe ser una version igual o superior a la 12.20) y npm**
+**Debes verificar** que tu computador tiene instalado Node.js (debe ser una version igual o superior a la 12.20) y npm
 
 - Este comando creará una carpeta con el nombre asignado para tu proyecto. Además de mostrar las intrucciones para configurar el proyecto.
 
@@ -72,7 +72,7 @@ npm run dev
 
 - Al abrir la dirección web en un navegador, aparecerán los parámetros para comenzar a editar tu plantilla:
 
-https://github.com/disenoUDP/fad9100-2024-1/assets/144460794/63966927-fb34-4e52-91ad-b47edd246849
+<https://github.com/disenoUDP/fad9100-2024-1/assets/144460794/63966927-fb34-4e52-91ad-b47edd246849>
 
 ## Bibliografía
 
