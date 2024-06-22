@@ -26,9 +26,37 @@ FAAD UDP
 
 [bitacoras/](./bitacoras/)
 
-## encargo mediados de junio
+## encargo final para viernes 28 junio 2024
 
-## encargo fines de mayo
+### para todes
+
+1. si corresponde, explicar muy bien cómo tu trabajo durante estos dos últimos encargos se relaciona con el trabajo del resto del equipo.
+2. si corresponde, incluir enlaces y bibliografía educacional, tutoriales que quieres recomendar.
+3. pequeño párrafo sobre qué aprendiste este semestre, y qué quieres seguir aprendiendo, y qué no.
+
+### para @capitaldebulgaria
+
+1. copiar tu encargo-04 a tu encargo 05 y hacer los cambios sugeridos sobre agregar alt-text a las imágenes.
+
+### para @janisepulveda
+
+1. si lograste crear material con mechanic.design, incluirlo y explicarlo y si no lo lograste, mostrar hasta dónde llegaste.
+
+### para @menteneon
+
+1. escribir una breve reseña de tu experiencia trabajando con AR, y las barreras o problemas que encontraste en tu aprendizaje.
+
+### para @Pluumsy
+
+1. poblar el README.md del template que hiciste en <https://github.com/Pluumsy/PortafolioGaleria>, incluyendo instrucciones de uso breves, y si corresponde, decisiones de diseño que tomaste y desafíos pendientes. si alcanzas, agregar comentarios que consideres muy importantes en tu CSS.
+
+### para @ssofiasandoval
+
+1. publicar el portafolio que más te guste en GitHub Pages, y poblarlo con 2 o 3 proyectos de tu autoría.
+
+### para @Tessbb
+
+1. tratar de corregir los warnings de estilo CSS que arrojan los navegadores, explicar algunos, y subir los archivos a la carpeta de tu encargo-05.
 
 ## encargo mediados de abril: viernes 19 abril 2024
 
