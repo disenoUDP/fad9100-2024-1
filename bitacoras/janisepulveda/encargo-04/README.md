@@ -76,10 +76,11 @@ npm run dev
 
 ### Proceso
 
-- me salen errores en la actualización de npm, y mechanic no me deja abrir un nuevo proyecto sin antes actualizar a la versión más reciente. 
+- me salen errores en la actualización de Node Package Manager, y mechanic no me deja abrir un nuevo proyecto sin antes actualizar a la versión más reciente de npm.
 
 ![actualización npm](./assets/proceso.png)
 
 ## Bibliografía
 
 <https://mechanic.design/>
+<https://www.npmjs.com/>
