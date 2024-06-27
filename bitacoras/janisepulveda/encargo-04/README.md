@@ -68,11 +68,17 @@ npm run dev
 
 ![dirección IP](./assets/IP.png)
 
-### 6. Copiar y pegar dirección web en Google Chrome
+### 6. Copiar y pegar dirección web en Google Chrome (de preferencia)
 
 - Al abrir la dirección web en un navegador, aparecerán los parámetros para comenzar a editar tu plantilla:
 
 <https://github.com/disenoUDP/fad9100-2024-1/assets/144460794/63966927-fb34-4e52-91ad-b47edd246849>
+
+### Proceso
+
+- me salen errores en la actualización de npm, y mechanic no me deja abrir un nuevo proyecto sin antes actualizar a la versión más reciente. 
+
+![actualización npm](./assets/proceso.png)
 
 ## Bibliografía
 
