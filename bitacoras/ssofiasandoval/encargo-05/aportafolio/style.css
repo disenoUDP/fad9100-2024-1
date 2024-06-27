@@ -1,0 +1,101 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+    cursor: url('https://img.icons8.com/ios/50/000000/cursor.png'), auto;
+}
+.container {
+    display: flex;
+    height: 100vh;
+}
+.sidebar {
+    width: 250px;
+    background-color: #fff;
+    padding: 20px;
+    border-right: 1px solid #ddd;
+}
+.sidebar h1 {
+    margin: 0 0 20px;
+    font-size: 2em;
+    font-weight: 600;
+    color: #333;
+}
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.sidebar ul li {
+    margin-bottom: 10px;
+}
+.sidebar ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.1em;
+    font-weight: 400;
+    transition: color 0.3s;
+}
+.sidebar ul li a:hover {
+    color: #8e44ad;
+}
+.content {
+    flex: 1;
+    padding: 20px;
+}
+h2 {
+    font-size: 2em;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 20px;
+}
+p {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #555;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.cv-btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+.cv-btn:hover {
+    background-color: #8e44ad;
+}
+.social-icons {
+    margin-top: 20px;
+}
+.social-icons a {
+    text-decoration: none;
+    color: #333;
+    font-size: 1.5em;
+    margin-right: 10px;
+    transition: color 0.3s;
+}
+.social-icons a:hover {
+    color: #8e44ad;
+}
+.contact-icons {
+    margin-top: 20px;
+}
+.contact-icons a {
+    margin: 0 15px;
+    text-decoration: none;
+}
+.contact-icons img {
+    width: 40px;
+    height: 40px;
+}
