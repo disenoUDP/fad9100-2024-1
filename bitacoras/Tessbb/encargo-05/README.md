@@ -4,7 +4,7 @@
 
 ## **Template: portafolio final**
 
-### - [Plantilla portafolio](https://tessbb.github.io/portafolio-01/proyecto-01.html)
+### - [Plantilla portafolio](https://tessbb.github.io/portafolio-01/)
 
 La plantilla, podría ser la base para los portafolios, es un primer acercamiento a una posible página web de un portafolio. 
 
