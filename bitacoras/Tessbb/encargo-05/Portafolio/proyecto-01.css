@@ -1,0 +1,154 @@
+/* ----------------------------------------------
+Manual de Estilos para proyecto-01.html
+   ---------------------------------------------- */
+
+/* Reset de estilos por defecto */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos del cuerpo de la página */
+body {
+    font-family: Arial, sans-serif; /* Familia de fuente */
+    line-height: 1.6; /* Altura de línea */
+    color: rgb(131, 0, 0); /* Color principal del texto */
+}
+
+/* Estilos del encabezado */
+header {
+    text-align: center; /* Alinear texto al centro */
+    padding: 1rem; /* Relleno interior */
+    background: rgb(131, 0, 0); /* Color de fondo */
+    color:  rgb(255, 239, 239); /* Color del texto */
+}
+
+/* Estilos del contenedor de proyecto */
+.project-container {
+    display: flex; /* Mostrar como flexbox */
+    flex-direction: column; /* Dirección de los elementos */
+    max-width: 1200px;
+    /*flex-wrap: wrap;Arreglo para resposividad ----------------------------------------------------------------------------------------------------------*/
+    /*-width: 1200px;  Ancho máximo */
+    margin: 2rem auto; /* Márgenes */
+    padding: 1rem; /* Relleno interior */
+    background:  rgb(255, 239, 239); /* Color de fondo */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+/* Estilos de la sección de imágenes del proyecto */
+.project-images {
+  /*  flex: 1;  Flexibilidad */
+    display: flex; /* Mostrar como flexbox */
+    flex-direction: column; /* Dirección de los elementos */
+    align-items: center; /* Alinear elementos */
+    padding: 1rem; /* Relleno interior */
+    border-right: 1px solid  rgb(255, 239, 239); /* Borde derecho */
+}
+
+/* Estilos de las imágenes del proyecto */
+.project-images img {
+    max-width: 100%; /* Ancho máximo del 100% */
+    height: auto; /* Altura automática */
+    margin-bottom: 1rem; /* Margen inferior */
+    border-radius: 10px; /* Borde redondeado */
+}
+
+/* Estilos de los detalles del proyecto */
+.project-details {
+    /*  flex: 1;Flexibilidad */
+    padding: 1rem; /* Relleno interior */
+}
+
+.project-details h2 {
+    margin-bottom: 1rem; /* Margen inferior */
+    font-size: 2rem; /* Tamaño de fuente */
+}
+
+.project-details p {
+    margin-bottom: 1rem; /* Margen inferior */
+}
+
+.project-details ul {
+    list-style: none; /* Quitar viñetas */
+    padding: 0; /* Padding cero */
+}
+
+.project-details ul li {
+    margin-bottom: 0.5rem; /* Margen inferior */
+}
+
+.thumbnail-container {
+    display: flex; /* Mostrar como flexbox */
+    justify-content: center; /* Justificar al centro */
+    align-items: center; /* Alinear al centro */
+    margin-top: 10px; /* Margen superior */
+}
+
+.thumbnail {
+    width: 80px; /* Ancho de miniatura */
+    height: 60px; /* Alto de miniatura */
+    margin: 0 5px; /* Margen */
+    cursor: pointer; /* Cursor tipo puntero */
+    border: 1px solid #ccc; /* borde estatico */
+    border-radius: 5px; /* Borde redondeado */
+}
+
+.thumbnail:hover {
+    border-color: rgb(131, 0, 0); /* Color del borde al pasar el mouse */
+}
+
+footer {
+    text-align: center; /* Alinear texto al centro */
+    padding: 1rem 0; /* Relleno interior */
+    background: rgb(131, 0, 0); /* Color de fondo */
+    color:  rgb(255, 239, 239); /* Color del texto */
+    margin-top: 2rem; /* Margen superior */
+}
+
+/*Resposividad*/
+
+/* Media Queries para Responsividad */
+@media (max-width: 768px) {
+    .project-container {
+        flex-direction: column;
+        padding: 1rem;
+    }
+    .project-images {
+/*       border-right: none;*/
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 1rem;
+    }
+    .thumbnail {
+        width: 60px;
+        height: 45px;
+    }
+}
+
+/* Media Queries para Pantallas Grandes */
+@media (min-width: 769px) {
+    .project-container {
+        flex-direction: row;
+        padding: 2rem;
+    }
+    .project-images {
+        flex: 1;
+        border-right: 1px solid #ddd;
+        border-bottom: none;
+        padding-right: 2rem;
+    }
+    .project-details {
+        flex: 1;
+        padding-left: 2rem;
+    }
+}
+
+/* Ajustes de imagen principal */
+.main-image img {
+    width: 100%;
+    height: auto;
+    max-height: 400px; /* Ajustar según la altura deseada */
+    object-fit: cover;
+    border-radius: 10px;
+}
