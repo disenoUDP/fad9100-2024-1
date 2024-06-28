@@ -1,0 +1,236 @@
+/* ----------------------------------------------
+Manual de Estilos para index.html
+   ---------------------------------------------- */
+
+/* Reset de estilos por defecto */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos del cuerpo de la página */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.6;
+    background-color: rgb(255, 239, 239); /* Color de fondo del cuerpo */
+    color: rgb(131, 0, 0); /* Color principal del texto */
+}
+
+/* Estilos del encabezado hero */
+header.hero {
+    background: url("imagenes/imagen-hero.jpg"); /* Imagen de fondo del encabezado */
+    background-size: cover;
+    background-position: center top; /* Posición de la imagen de fondo */
+    background-attachment: fixed;
+    height: 100vh; /* Altura del encabezado hero, ajustable según preferencias */
+    color: rgb(255, 239, 239); /* Color del texto en el encabezado */
+    text-align: center;
+    display: flex;
+    font-size: 30px; /* Tamaño de fuente del texto principal */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+/* Oscurecer un poco la imagen de fondo */
+header.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+/* Estilos de la navegación en el encabezado */
+header nav ul {
+    list-style: none; /* Eliminar viñetas de la lista */
+    margin-top: 20px; /* Margen superior */
+}
+
+header nav ul li {
+    display: inline; /* Mostrar elementos en línea */
+    margin: 0 15px; /* Margen entre elementos */
+}
+
+header nav ul li a {
+    color:  rgb(255, 239, 239); /* Color de los enlaces */
+    text-decoration: none; /* Quitar subrayado de los enlaces */
+    font-size: 1.2rem; /* Tamaño de fuente de los enlaces */
+    font-weight: bold;
+}
+
+/* Estilos de la sección "Sobre Mí" */
+.about-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centrar verticalmente los elementos */
+    margin-bottom: 30px; /* Espacio bajo la sección */
+    padding: 20px; /*Agregado para responsividad ----------------------------------------------------------------------------------*/
+}
+/*Agregado para responsividad ----------------------------------------------------------------------------------*/
+.about-content {
+    text-align: center;
+    max-width: 600px;
+}
+
+.profile-wrapper {
+    flex-shrink: 0; /* Evitar que la imagen se reduzca */
+    margin-right: 40px;    /* Margen a la derecha de la imagen */
+    margin-bottom: 20px;
+}
+
+.about-content {
+    flex-grow: 1; /* Ocupar espacio restante */
+}
+
+/* -------------------------Media Queries para Pantallas Grandes */
+@media (min-width: 769px) {
+    .about-section {
+        flex-direction: row;
+        align-items: flex-start;
+        justify-content: center;
+    }
+    .profile-wrapper {
+        margin-right: 40px;
+        margin-bottom: 0;
+    }
+    .about-content {
+        text-align: left;
+        max-width: none;
+    }
+}
+
+.profile-pic {
+    width: 300px; /* Ancho de la imagen */
+    height: 300px; /* Alto de la imagen */
+    border-radius: 50%; /* Borde redondeado */
+    border: 5px solid  rgb(131, 0, 0); /* Borde blanco */
+    object-fit: cover; /* Ajuste de la imagen */
+}
+
+/* Estilos del contenido principal */
+main {
+    background:  rgb(255, 239, 239); /* Color de fondo del contenido principal */
+    padding: 2rem; /* Relleno interior */
+}
+
+section {
+    padding: 2rem 0; /* Relleno superior e inferior de las secciones */
+}
+
+/* Estilos del formulario */
+form label {
+    display: block; /* Mostrar etiquetas en bloque */
+    margin-top: 10px; /* Margen superior */
+}
+
+form input, form textarea, form button {
+    width: 100%; /* Ancho completo */
+    padding: 10px; /* Relleno interior */
+    margin-top: 5px; /* Margen superior */
+}
+
+form button {
+    background: rgb(131, 0, 0); /* Color de fondo del botón */
+    color:  rgb(255, 239, 239); /* Color del texto del botón */
+    border: none; /* Quitar borde del botón */
+    cursor: pointer; /* Cursor tipo puntero */
+    padding: 10px 20px; /* Relleno interior */
+}
+
+/* Estilos del pie de página */
+footer {
+    text-align: center; /* Alinear texto al centro */
+    padding: 1rem 0; /* Relleno interior */
+    background: rgb(131, 0, 0); /* Color de fondo */
+    color:  rgb(255, 239, 239); /* Color del texto */
+}
+
+/* Estilos de las imágenes */
+img {
+    max-width: 100%; /* Ancho máximo del 100% */
+    margin-bottom: 30px; /* Margen inferior */
+    display: block; /* Mostrar como bloque */
+    border-radius: 5px; /* Borde redondeado */
+}
+
+/* Estilos del contenedor de proyectos */
+.container {
+    columns: 3 320px; /* Distribución en columnas */
+    column-gap: 40px; /* Espacio entre columnas */
+}
+
+/* Estilos de las cajas de proyecto */
+.box {
+    position: relative; /* Posición relativa */
+    border-radius: 5px; /* Borde redondeado */
+    box-shadow: 0 0 20px 0 #0007; /* Sombra */
+}
+
+/* Efecto de superposición al pasar el mouse */
+.box:hover .overlay {
+    height: 100%; /* Altura al 100% */
+    cursor: pointer; /* Cursor tipo puntero */
+}
+
+.overlay h2 {
+    color: rgb(255, 239, 239); /* Color del texto */
+    font-size: 30px; /* Tamaño de fuente */
+    position: absolute; /* Posición absoluta */
+    top: 50%; /* Alineación vertical */
+    left: 50%; /* Alineación horizontal */
+    text-align: center; /* Alinear texto al centro */
+    transform: translate(-50%,-50%); /* Centrar */
+}
+
+.overlay {
+    position: absolute; /* Posición absoluta */
+    bottom: 0; /* Alinear abajo */
+    left: 0; /* Alinear a la izquierda */
+    background: #000000b2; /* Color de fondo semi-transparente */
+    width: 100%; /* Ancho completo */
+    height: 0%; /* Altura inicial al 0% */
+    border-radius: 3px; /* Borde redondeado */
+    transition: .5s ease; /* Transición suave */
+    overflow: hidden; /* Ocultar contenido sobrante */
+}
+
+/*resposividad--------------------------------------------------------------------------------------*/
+
+/* Media Queries para Responsividad */
+@media (max-width: 768px) {
+    header.hero {
+        font-size: 20px;
+    }
+    header nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    header nav ul li {
+        margin: 10px 0;
+    }
+    .about-section {
+        flex-direction: column;
+        text-align: center;
+    }
+    .profile-wrapper {
+        margin: 0 0 20px 0;
+    }
+    .profile-pic {
+        width: 200px;
+        height: 200px;
+    }
+    .container {
+        columns: 1 100%;
+    }
+    .box {
+        margin-bottom: 20px;
+    }
+}
